@@ -1,13 +1,4 @@
-      ／＞　 フ
-      | 　_　_| 
-     ／` ミ＿xノ 
-    /　　　　 |
-   /　 ヽ　　 ﾉ
- │　　|　|　|
-／￣|　　 |　|　|
-(￣ヽ＿_ヽ_)__)
-＼二)
-
+<pre> ``` ／＞　 フ | 　_　_| ／` ミ＿xノ /　　　　 | /　 ヽ　　 ﾉ │　　|　|　| ／￣|　　 |　|　| (￣ヽ＿_ヽ_)__) ＼二)  ``` </pre>
 ## hi, i'm janikaa 👾
 just a curious human messing around with code, design, and too many side projects.
 
